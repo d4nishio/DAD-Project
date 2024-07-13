@@ -29,11 +29,11 @@ Data Layer: MySQL Database (accessed via RedmineDB.php)
 
 Student Web Service:
 - Login: http://localhost/DADProject/StudentWebService.php?action=login&studentId=[ID]&password=[PASSWORD]
-- Get Scores: http://localhost/dadProject/StudentWebService.php?action=getScoresByStudentId&studentId=[ID]
+- Get Scores: http://localhost/DADProject/StudentWebService.php?action=getScoresByStudentId&studentId=[ID]
 
 Lecturer Web Service:
 - Login: http://localhost/DADProject/LecturerWebService.php?action=login&lecturer_id=[ID]&password=[PASSWORD]
-- Get Students Data: http://localhost/dadProject/LecturerWebService.php?action=getStudentsData&lecturerId=[ID]
+- Get Students Data: http://localhost/DADProject/LecturerWebService.php?action=getStudentsData&lecturerId=[ID]
 
 *change respective bracket
 [ID] -> INSERT ID (STUDENT/LECTURER)
