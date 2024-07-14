@@ -19,7 +19,7 @@ b) Lecturer App:
 
 For both Student and Lecturer Apps:
 
-//pics here
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/586940be-f09a-4897-9a8d-7682ff45a2a5)
 
 Client Layer: Java Swing GUI (StudentApp.java / LecturerApp.java)
 Middleware Layer: PHP Web Services (StudentWebService.php / LecturerWebService.php)
