@@ -1,3 +1,5 @@
+***MyDAD GRADING SYSTEM***
+
 1. Number of Apps Involved:
 There are 2 main applications involved:
 - Student App
