@@ -62,3 +62,7 @@ Tables (inferred from the code):
 - lecturers: Stores lecturer information (lecturer_id, password, potentially name and other details)
 - courses: Stores course information (course_id, course_name, lecturer_id)
 - results: Stores student scores (student_id, course_id, score)
+
+
+7. Group(21) presentation link:
+https://youtu.be/3pRkU5rKuAQ?si=6OK4RhlAsAXb8X2Q 
