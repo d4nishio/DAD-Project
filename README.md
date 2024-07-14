@@ -36,7 +36,7 @@ Lecturer Web Service:
 - Get Students Data: http://localhost/DADProject/LecturerWebService.php?action=getStudentsData&lecturerId=[ID]
 
 *change respective bracket
-[ID] -> INSERT ID (STUDENT/LECTURER)
+[ID] -> INSERT ID (STUDENT/LECTURER) 
 [PASSWORD] -> INSERT PASSWORD.
 
 5. Functions/Features in the Middleware:
