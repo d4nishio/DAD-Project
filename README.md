@@ -19,7 +19,7 @@ b) Lecturer App:
 
 For both Student and Lecturer Apps:
 
-(Three_Tier Architecture)
+(Three-Tier Architecture)
 
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/586940be-f09a-4897-9a8d-7682ff45a2a5)
 
