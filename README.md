@@ -1,5 +1,5 @@
 ***MyDAD GRADING SYSTEM***
-* - A Distributed Application System built using Java Swing and PHP with MySQL Database*
+#*A Distributed Application System built using Java Swing and PHP with MySQL Database*
 
 1. Number of Apps Involved:
 There are 2 main applications involved:
